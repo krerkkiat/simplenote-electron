@@ -62,6 +62,7 @@
     "react": "15.3.0",
     "react-addons-pure-render-mixin": "0.14.3",
     "react-addons-update": "0.14.3",
+    "react-autosuggest": "6.0.4",
     "react-dom": "0.14.3",
     "react-redux": "4.4.0",
     "redux": "3.3.1",
