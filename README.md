@@ -1,5 +1,7 @@
 # Simplenote for Electron
 
+A fork of Automattic/simplenote-electron.
+
 ![Screenshot](https://simplenoteblog.files.wordpress.com/2016/03/simplenote-linux.png)
 
 A Simplenote [React](https://facebook.github.io/react/) client packaged in [Electron](http://electron.atom.io). Learn more about Simplenote at [Simplenote.com](https://simplenote.com). 
